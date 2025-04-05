@@ -1,11 +1,11 @@
-### Repository Description: StudySync Website
+### Repository Description: Study-Adda Website
 
-This repository contains the source code for the **StudySync** website, a modern, responsive platform designed to enhance learning experiences. The website showcases the features, benefits, and offerings of StudySync, aimed at empowering students, educators, and institutions with seamless learning solutions.
+This repository contains the source code for the **Study-Adda** website, a modern, responsive platform designed to enhance learning experiences. The website showcases the features, benefits, and offerings of Study-Adda, aimed at empowering students, educators, and institutions with seamless learning solutions.
 
 #### Key Features:
 - **Responsive Design**: Ensures a seamless experience across all devices, including desktops, tablets, and smartphones.
 - **Dynamic Navigation**: Easy-to-use navigation bar with links to key sections like Home, Features, Pricing, Blog, and About.
-- **Engaging Content**: Highlighting the benefits of StudySync through informative sections and appealing visuals.
+- **Engaging Content**: Highlighting the benefits of Study-Adda through informative sections and appealing visuals.
 - **Feature Highlights**: Detailed feature cards showcasing competitive advantages like Personalized Learning, Affordability, and Innovative Technology.
 - **Testimonials**: Customer testimonials to build trust and credibility.
 - **Newsletter Signup**: Users can subscribe to stay updated with the latest news and updates.
